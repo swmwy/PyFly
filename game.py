@@ -3,5 +3,5 @@ import time
 import flying
 import os
 
-def choose_aircraft():
+def list_aircraft():
     
